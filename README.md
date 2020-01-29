@@ -30,7 +30,10 @@ Une fois le programme lancé, cliquer sur la simulation pour la lancer. Appayez 
 Exemple de transmission de feu:
 
 ![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/video1.mp4)
-
+<p align="center" >
+   <a href="">
+    <img alt="Exemple de percolation" src="https://github.com/FaresEmb/Percolation/blob/master/image/video1.mp4" width="260" height="510" />
+ </a>
 
 ### Quelques résultats:
 
