@@ -29,7 +29,7 @@ Fichier d'exécution principal. Lancer ce fichier python afin de lancer la simul
 Une fois le programme lancé, cliquer sur la simulation pour la lancer. Appayez sur 'R' pour la relancer. et utiliser les fleches de côté pour choisir le paramètre 'p' correspondant à la probabilité que le feu se transmet localement d’arbre à un autre. Le feu ne se propage pas sur l'eau (le lac). 
 Exemple de transmission de feu:
 
-![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/video.mp4)
+![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/video1.mp4)
 
 
 ### Quelques résultats:
