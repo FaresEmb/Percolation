@@ -37,3 +37,7 @@ Exemple de transmission de feu:
 Simulation terminée: 
 
 ![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/capture3.PNG)
+
+### Quelques résultats:
+
+![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/capture4.PNG)
