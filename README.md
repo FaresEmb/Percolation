@@ -27,8 +27,8 @@ Fichier d'exécution principal. Lancer ce fichier python afin de lancer la simul
 ### Etape de la simulation:
 
 
-![Simulation](https://github.com/FaresEmb/Percolation/image/capture1.PNG)
+![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/capture1.PNG)
 
-![Simulation](https://github.com/FaresEmb/Percolation/image/capture2.PNG)
+![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/capture2.PNG)
 
-![Simulation](https://github.com/FaresEmb/Percolation/image/capture3.PNG)
+![Simulation](https://github.com/FaresEmb/Percolation/blob/master/image/capture3.PNG)
