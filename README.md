@@ -30,7 +30,7 @@ Une fois le programme lancé, cliquer sur la simulation pour la lancer. Appayez 
 Exemple de transmission de feu:
 
 <p align="center" >
-   <a href="">
+   <a href="https://media.giphy.com/media/l2viWNOktT0AtfZTjO/giphy.gif">
     <img alt="Exemple_de_percolation" src="https://media.giphy.com/media/l2viWNOktT0AtfZTjO/giphy.gif" width="260" height="510" />
  </a>
 
