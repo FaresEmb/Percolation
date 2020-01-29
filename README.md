@@ -29,10 +29,10 @@ Fichier d'exécution principal. Lancer ce fichier python afin de lancer la simul
 Une fois le programme lancé, cliquer sur la simulation pour la lancer. Appayez sur 'R' pour la relancer. et utiliser les fleches de côté pour choisir le paramètre 'p' correspondant à la probabilité que le feu se transmet localement d’arbre à un autre. Le feu ne se propage pas sur l'eau (le lac). 
 Exemple de transmission de feu:
 
-![Simulation](https://gph.is/g/aQOQlX5)
+![Simulation](https://media.giphy.com/media/l2viWNOktT0AtfZTjO/giphy.gif)
 <p align="center" >
    <a href="">
-    <img alt="Exemple_de_percolation" src="https://gph.is/g/aQOQlX5" width="260" height="510" />
+    <img alt="Exemple_de_percolation" src="https://media.giphy.com/media/l2viWNOktT0AtfZTjO/giphy.gif" width="260" height="510" />
  </a>
 
 ### Quelques résultats:
