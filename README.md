@@ -15,13 +15,20 @@ Le feu se transmet localement d’arbre en arbre et la possibilité de transmiss
 
 ### Exécution du code:
 
-- ▶️️ Téléchargement du dépôt *Percolation*: [source](https://github.com/MohamedAminMallek/pysat_sudoku)
+- ▶️️ Téléchargement du dépôt *Percolation*: [source](https://github.com/FaresEmb/Percolation)
 
-- ▶️️ Exécution du fichier Bash *run_me.sh*: [source](https://github.com/MohamedAminMallek/pysat_sudoku/blob/master/run_me.sh)
+- ▶️️ Exécution du fichier Python *fireforest.py*: [source](https://github.com/FaresEmb/Percolation/blob/master/fireforest.py)
 
 ### Détails des fonctions:
 
-- 📚 [run_me.sh]: [source](https://github.com/MohamedAminMallek/pysat_sudoku/blob/master/run_me.sh) |
-Fichier d'exécution principal. Lancer ce fichier Bash afin de générer un nouveau sudoku ayant une seule et unique solution et l'affiche sur pygame. À chaque exécution, la génération du sudoku est différente.
+- 📚 [fireforest.py]: [source](https://github.com/FaresEmb/Percolation/blob/master/fireforest.py) |
+Fichier d'exécution principal. Lancer ce fichier python afin de lancer la simulation de percolation de feu de forêt sur pygame.
 
 ### Etape de la simulation:
+
+
+![Simulation](https://github.com/FaresEmb/Percolation/image/capture1.PNG)
+
+![Simulation](https://github.com/FaresEmb/Percolation/image/capture2.PNG)
+
+![Simulation](https://github.com/FaresEmb/Percolation/image/capture3.PNG)
